@@ -84,7 +84,7 @@ description: 此網頁為高一誠老師109-1統計學(一)擷取之部份i-Lear
 * 報告分數依助教評分、同學評分與i-learning上傳檔案為準。
   * 若有組員不參與報告討論，其他組員請一起來跟老師說明狀況，而最後期末報告上傳檔案可將不參與討論者除名。所以⼤家務必要團隊合作並認真準備！
 
-
+## [Gapminder Tools](https://www.gapminder.org/tools/)
 
 ![&#x25B2;Gapminder Tools](.gitbook/assets/jie-tu-20210221-14.30.59.png)
 
