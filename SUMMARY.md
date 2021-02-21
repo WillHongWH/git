@@ -1,4 +1,4 @@
 # Table of contents
 
-* [統計學\(一\)](README.md)
+* [L1 課程簡介](README.md)
 
