@@ -90,7 +90,7 @@ description: 此網頁為高一誠老師109-1統計學(一)擷取之部份i-Lear
 
 Resource: [https://www.gapminder.org/tools/](https://www.gapminder.org/tools/)
 
-## 
+## 競爭⼒ = 發現問題 + 分析資訊 + 解決方案 + 溝通執⾏
 
 ![](.gitbook/assets/jie-tu-20210221-14.41.51.png)
 
