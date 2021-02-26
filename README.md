@@ -17,7 +17,7 @@ description: 此網頁為高一誠老師109-1統計學(一)擷取之部份i-Lear
 {% endhint %}
 
 {% hint style="info" %}
- 若有任何問題。歡迎隨時聯繫高老師\(kao@cycu.edu.tw\)，或國晉助教\(willhongwh@gmail.com\)，謝謝！
+ 若有任何問題，歡迎隨時聯繫高老師\(kao@cycu.edu.tw\)，或國晉助教\(willhongwh@gmail.com\)，謝謝！
 {% endhint %}
 
 ## 1.2 簽到規定
