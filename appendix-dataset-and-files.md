@@ -46,9 +46,25 @@
 
 {% file src=".gitbook/assets/tsmc\_umc\_english \(1\).csv" caption="TSMC\_UMC\_English.csv" %}
 
-{% file src=".gitbook/assets/tsmc\_umc\_english.txt" caption="TSMC\_UMC\_English.txt" %}
+## L5. Distributions
 
-##  
+{% file src=".gitbook/assets/biao-zhun-chang-tai-biao-.pdf" caption="標準常態表.pdf" %}
 
+## L6. Sampling Distribution
 
+{% file src=".gitbook/assets/shou-ji-tong-hua-diao-cha-2020-jia-ban-.csv" caption="手機通話調查\_2020甲班" %}
+
+{% file src=".gitbook/assets/shou-ji-tong-hua-diao-cha-.csv" caption="手機通話調查" %}
+
+{% file src=".gitbook/assets/991\_scores \(1\).csv" caption="991\_scores.csv" %}
+
+## L7. Confidence Interval
+
+{% file src=".gitbook/assets/wu-wan-can-fei-yong-2020 \(1\).csv" caption="午晚餐費用\_2020" %}
+
+{% file src=".gitbook/assets/wu-wan-can-fei-yong- \(1\).txt" caption="午晚餐費用.txt" %}
+
+{% file src=".gitbook/assets/wu-wan-can-fei-yong- \(1\).csv" caption="午晚餐費用.csv" %}
+
+{% file src=".gitbook/assets/t-fen-pei-biao- \(1\).jpg" caption="t分配表.jpg" %}
 
