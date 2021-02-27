@@ -8,5 +8,6 @@
 * [L6. Sampling Distribution](l6.-sampling-distribution.md)
 * [L7. Confidence Interval](l7.-confidence-interval.md)
 * [L8. Inference](l8.-inference.md)
+* [Appendix: Dataset & Files](appendix-dataset-and-files.md)
 * [Testing page](testing-page.md)
 
