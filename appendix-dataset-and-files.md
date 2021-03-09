@@ -70,7 +70,11 @@
 
 ## Useful Link
 
-### 🍍[R Cheat Sheets Download](https://drive.google.com/file/d/1h5zO1HKqWReiZzLySbPBm2FXYI_ES9qO/view?usp=sharing) 🙌 
+### [R](https://www.r-project.org) 👩💻👨💻 
 
-### 🌈[RStudio Download](https://rstudio.com/products/rstudio/download/#download)🚀 
+### [RStudio Download](https://rstudio.com/products/rstudio/download/#download)📊📈 
+
+### [R for Data Science](https://r4ds.had.co.nz)🌈🐦 
+
+### [R Cheat Sheets Download](https://drive.google.com/file/d/1h5zO1HKqWReiZzLySbPBm2FXYI_ES9qO/view?usp=sharing)🍍🙌
 
