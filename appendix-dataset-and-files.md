@@ -72,3 +72,5 @@
 
 ### 🍍[R Cheat Sheets Download](https://drive.google.com/file/d/1h5zO1HKqWReiZzLySbPBm2FXYI_ES9qO/view?usp=sharing) 🙌 
 
+### 🌈[RStudio Download](https://rstudio.com/products/rstudio/download/#download)🚀 
+
