@@ -68,3 +68,7 @@
 
 {% file src=".gitbook/assets/t-fen-pei-biao- \(1\).jpg" caption="t分配表.jpg" %}
 
+## Useful Link
+
+### 🍍[R Cheat Sheets Download](https://drive.google.com/file/d/1h5zO1HKqWReiZzLySbPBm2FXYI_ES9qO/view?usp=sharing) 🙌 
+
